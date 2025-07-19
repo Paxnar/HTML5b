@@ -1,5 +1,5 @@
 
-Time to explore
+Время путешествовать
 32,18,01,00,L
 ................................
 ................................
@@ -21,12 +21,12 @@ Time to explore
 ////////////////////////////////
 01,03.50,00.00,10
 06
-00S Whoa!  Hold on a second; this place doesn't look familiar.  What happened?    I don't remember anything!
-00S Uh... well, um... uh.... gosh, I'm so confused.
-00H Oh, I know!  I'll look through my journal entries!   After all, I am a journal.  So, let's see...   five minutes ago, I...
-00S ...got eaten by Evil Leafy? WHAT?  That doesn't make any sense!
-00S Well, I guess I'll go look for my fellow FreeSmarters to get a sense of what's going on.
-99S Use the arrow keys to move and press the space bar to jump.
+00S Воу!  Погодите ка секунду; это место выглядит мне незнакомо.  Что произошло?    Я ничего не помню!
+00S Ээ... ну, эм... ээ.... блин, я так запутана.
+00H О, я знаю!  Посмотрю что написано в моём дневнике!   Я ведь всё-таки дневник.  Ну чтож, посмотрим...   пять минут назад, я...
+00S ...была съедена Злой Лифи? ЧЕГО?  Это же какая-то чушь!
+00S Ну, наверное пойду искать своих родных ФриСмартовцвев, чтобы понять что вообще происходит.
+99S Используй стрелки чтобы передвигаться и жми на пробел для прыжка.
 000000
 
 First danger
